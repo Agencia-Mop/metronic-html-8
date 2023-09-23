@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Agencia-Mop/metronic-html-8.git"
+    "url": "git+git@github.com:Agencia-Mop/metronic-html-8.git"
   },
   "author": "",
   "license": "ISC",
